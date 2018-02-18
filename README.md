@@ -1,5 +1,5 @@
 # ml-music
-Experimenting with Machine Learning on the Million Song Dataset.
+Experimenting with Machine Learning on the [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/).
 
 _(obviously work in progress...)_
 
