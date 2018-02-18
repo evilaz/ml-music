@@ -100,5 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-# Datasets
-/data
+# Static Data #
+###################
+/data/*
