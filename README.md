@@ -9,3 +9,7 @@ Planning to experiment on the following ideas:
 * Lyrics-based music annotation
 
 * Lyrics-based song/artist similarity
+
+* Lyrics generation.. (that requires full text lyrics)
+
+* Lyrics-based rating prediction (if data available)
