@@ -3,5 +3,5 @@
 # Static Data #
 ###################
 /data/*
-
+.idea/
 playground.py
